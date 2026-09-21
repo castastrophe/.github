@@ -1,6 +1,6 @@
 # Contributing
 
-First off: thank you! 🎉 This guide explains how to contribute across my
+First off, thank you! 🎉 This guide explains how to contribute across my
 repositories. Individual projects may add their own `CONTRIBUTING.md` with
 project-specific details; when they do, that file takes precedence.
 
@@ -18,7 +18,7 @@ You don't have to write code to make a difference:
 - ✨ **Suggest features**: tell us about the problem you're trying to solve.
 - 📚 **Improve docs**: typos, clarifications, and examples are always welcome.
 - 🧪 **Triage issues**: reproduce reports, confirm bugs, suggest labels.
-- 💬 **Help others**: answer questions in Discussions.
+- 💬 **Help others**: answer questions in issues.
 
 ## Reporting bugs & requesting features
 
@@ -66,7 +66,7 @@ A `BREAKING CHANGE:` footer or a `!` after the type (e.g. `feat!:`) triggers a m
 - Keep PRs focused: one logical change per PR is easiest to review.
 - Reference the issue your PR addresses (`Closes #123`).
 - Make sure CI passes and there are no new warnings or accessibility regressions.
-- Be responsive to review feedback: we aim to be too.
+- Be responsive to review feedback, and I aim to be too.
 
 ## Accessibility
 

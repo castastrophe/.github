@@ -1,6 +1,6 @@
 <!--
   Thanks for contributing! 🎉
-  Please fill out the sections below. Keep PRs focused: smaller is easier to review.
+  Please fill out the sections below. Keep PRs focused; smaller is easier to review.
 -->
 
 ## What
@@ -15,7 +15,7 @@ Closes #
 
 ## How
 
-<!-- Implementation notes: especially anything non-obvious about the approach. -->
+<!-- Implementation notes, especially anything non-obvious about the approach. -->
 
 ## Test plan
 

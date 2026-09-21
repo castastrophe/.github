@@ -7,7 +7,7 @@ holds across all of them.
 
 For Allons-y Studio work, the equivalent lives in
 [allonsy-studio/.github](https://github.com/allonsy-studio/.github/blob/main/AGENTS.md).
-The two differ in voice, and that difference is deliberate: see below.
+The two differ in voice, and that difference is deliberate; see below.
 
 ## Voice
 
