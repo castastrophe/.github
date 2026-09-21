@@ -34,7 +34,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening a [private security advisory](https://github.com/castastrophe/.github/security/advisories/new) or contacting [@castastrophe](https://github.com/castastrophe) directly. Reports are reviewed and investigated, and responded to in whatever way the circumstances warrant. Confidentiality with regard to the reporter of an incident is maintained. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting <security@allons-y.studio>. Reports are reviewed and investigated, and responded to in whatever way the circumstances warrant. Confidentiality with regard to the reporter of an incident is maintained. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 

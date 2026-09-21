@@ -19,8 +19,7 @@ Instead, report them privately using one of the following:
 - **GitHub Security Advisories** (preferred): use the **"Report a vulnerability"**
   button under the **Security** tab of the affected repository, or
   [open one here](https://github.com/castastrophe/.github/security/advisories/new).
-- **GitHub**: contact [@castastrophe](https://github.com/castastrophe) if a
-  private advisory is not available on the affected repository.
+- **Email**: **security@allons-y.studio**
 
 Please include as much of the following as you can:
 
