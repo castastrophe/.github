@@ -59,12 +59,20 @@ Under a `## License` heading in the README, use the matching text:
 
 ## Commits and pull requests
 
-Conventional Commits, and [CONTRIBUTING.md](CONTRIBUTING.md) has the full flow:
-branch naming, commit types, and PR guidelines.
+Conventional Commits, and [CONTRIBUTING.md](CONTRIBUTING.md) has the full flow: branch
+naming, commit types, and PR guidelines.
 
-Commit and PR bodies are written for my own future self rather than for a stranger
-reviewing. State the reasoning and the context that won't be obvious in six months,
-not just what changed, and flag anything worth revisiting later.
+Commit and PR bodies are either notes for my future self or summaries for collaborators or open source users. Keep any reasoning that won't be obvious in 6+ months; drop the rest.
+
+- PR descriptions: 1 to 3 sentences of prose by default, ~100 words at most. Lead with a
+  verb; never open with "This PR".
+- Commit bodies: 1 to 2 sentences, or none for a small change.
+- Leave out environment or sandbox notes, after-merge process, file lists the diff already
+  shows, speculation about causes, side findings (open an issue instead), unfilled
+  template comments, and an empty `Closes #`.
+- Test plan: one line on what was actually checked.
+- Review replies: one sentence plus the commit SHA.
+- No headers beyond the template's, no bold-label bullets, no em dashes.
 
 Never add AI attribution to a commit or a PR: no `Co-Authored-By` trailer, no
 "Generated with …" footer, no session URLs. This holds in every repo, without
