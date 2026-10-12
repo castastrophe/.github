@@ -62,8 +62,7 @@ Under a `## License` heading in the README, use the matching text:
 Conventional Commits, and [CONTRIBUTING.md](CONTRIBUTING.md) has the full flow: branch
 naming, commit types, and PR guidelines.
 
-Commit and PR bodies are notes for my future self, not reports for a stranger. Keep the
-reasoning that won't be obvious in six months and anything worth revisiting; drop the rest.
+Commit and PR bodies are either notes for my future self or summaries for collaborators or open source users. Keep any reasoning that won't be obvious in 6+ months; drop the rest.
 
 - PR descriptions: 1 to 3 sentences of prose by default, ~100 words at most. Lead with a
   verb; never open with "This PR".
