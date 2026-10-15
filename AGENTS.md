@@ -73,6 +73,9 @@ Commit and PR bodies are either notes for my future self or summaries for collab
 - Test plan: one line on what was actually checked.
 - Review replies: one sentence plus the commit SHA.
 - No headers beyond the template's, no bold-label bullets, no em dashes.
+- After drafting, run the [humanizer](https://github.com/blader/humanizer) skill on the
+  prose. Where it conflicts with these rules, these rules win: no dashes even if a sample
+  uses them, and short replies and verb-first sentences stay as they are.
 
 Never add AI attribution to a commit or a PR: no `Co-Authored-By` trailer, no
 "Generated with …" footer, no session URLs. This holds in every repo, without
